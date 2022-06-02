@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = '𝙰𝙱𝚄 𝚆𝙰 𝙼𝙳'
-global.botname = 'Abu-Md'
-global.footer = 'jsl ABU.'
-global.ig = 'https://github.com/Afx-Abu'
+global.owner = ['916238054812']
+global.premium = ['916238054812']
+global.ownernomer = '916238054812'
+global.ownername = 'VipeR 𝙼𝙳'
+global.botname = 'VipeR-Md'
+global.footer = '𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅.'
+global.ig = 'https://github.com/viper-1617'
 global.region = 'India, NorthEast, Mizoram'
 global.sc = 'https://github.com/Afx-Abu/ABU-MD'
 global.myweb = 'https://youtu.be/'
-global.packname = 'ABU Bot'
-global.author = 'JSL ABU'
+global.packname = 'VipeR Bot'
+global.author = 'VipeR'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -38,13 +38,13 @@ global.mess = {
     success: 'ᴅᴏɴᴇ',
     admin: 'ᴛʜɪs ғᴇᴀᴛᴜʀsɪs ᴏɴʟʏ ғᴏʀ ᴀᴅᴍɪɴ !',
     botAdmin: 'ɢɪᴠᴇ ᴀᴅᴍɪɴ ʙᴏᴛ ᴍᴜsᴛ!',
-    owner: 'ᴛʜɪs ᴏɴʟʏ ᴡᴏʀᴄᴋ ғᴏʀ ᴏᴡɴᴇʀ !',
-    group: 'ᴛʜɪs ᴏɴʟʏ ᴡᴏʀᴄᴋ ғᴏʀ ɢʀᴏᴜᴘ !',
+    owner: 'ᴛʜɪs ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ ᴏᴡɴᴇʀ !',
+    group: 'ᴛʜɪs ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ ɢʀᴏᴜᴘ !',
     private: 'ᴏɴʟʏ ᴘʀɪᴠɪᴛᴇ ᴜsᴇ !',
-    bot: 'ᴛʜɪs ᴏɴʟʏ ᴡᴏʀᴄᴋ ғᴏʀ ʙᴏᴛ !',
+    bot: 'ᴛʜɪs ᴏɴʟʏ Work ғᴏʀ ʙᴏᴛ !',
     wait: 'ʟᴏᴀᴅɪɴɢ...',
     error: 'ɴᴏᴛ ᴠᴇʀғɪᴅᴇ ᴀᴘɪ ᴋᴇʏ !',
-    endLimit: 'ʏᴏᴜʀ ᴅɪʟʏ ʟɪᴍɪᴛᴇ ʀᴇᴀᴄʜ',
+    endLimit: 'ʏᴏᴜʀ Daily ʟɪᴍɪᴛᴇ ʀᴇᴀᴄʜ',
 }
     global.limitawal = {
     premium: "Infinity",
@@ -60,19 +60,19 @@ global.mess = {
    potionawal: 1
 }
 
-global.ownernomer = process.env.OWNER_NUMBER || '917025994178'
-global.packname = process.env.PACKNAME ||'ᴀʙᴜ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ᴊsʟ/ᴀʙᴜ'
-global.botname = process.env.BOT_NAME ||'ᴊsʟ/ᴀʙᴜ'
+global.ownernomer = process.env.OWNER_NUMBER || '916238054812'
+global.packname = process.env.PACKNAME ||'𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅'
+global.author = process.env.AUTHOR ||'VipeR/MD'
+global.botname = process.env.BOT_NAME ||'VipeR-MD'
 global.myweb = process.env.INSTA_LINK ||'https://instagram.com/'
-global.footer = process.env.FOOTER_CAPTION ||'ᴊsʟ/ᴀʙᴜ'
-global.myweb = process.env.GIT_LINK ||'https://github.com/Afx-Abu/ABU-MD'
+global.footer = process.env.FOOTER_CAPTION ||'VipeR/MD'
+global.myweb = process.env.GIT_LINK ||'https://github.com/viper-1617/ABU-MD'
 global.name = 'ABU MULTI-DEVICE'
-global.myweb = 'https://instagram.com/'
+global.myweb = 'https://instagram.com/_._adarsh____'
 global.sc = 'https://github.com/Afx-Abu/ABU-MD'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴀʙᴜ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Jsl/Abu'
+global.wm = process.env.WATERMARK|| '𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅'
+global.owner_name = process.env.OWNER_NAME || '𝛻𝛪𝛲𝛯𝑅 𝑆𝛯𝑅'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
