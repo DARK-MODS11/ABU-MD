@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Afx-Abu.",
+  "author": "VipeR.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
